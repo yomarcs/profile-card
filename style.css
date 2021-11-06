@@ -43,7 +43,7 @@ body{
 .bg-pattern-card{
     position: relative;
     height: 150px;
-    background-image: url(/images/bg-pattern-card.svg);
+    background-image: url(./images/bg-pattern-card.svg);
     background-position: cover;
 }
 
